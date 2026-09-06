@@ -137,6 +137,26 @@ You can read all info about how works this library in our [Wiki](https://github.
         - Script UTxOs
         - Datum Information
 
+    - [x] Governance
+        - DRep Epoch Summary
+        - DRep List
+        - DRep Information
+        - DRep Metadata
+        - DRep Updates
+        - DRep Delegators History
+        - DRep Voting Power History
+        - DRep Votes
+        - DRep Delegators
+        - Committee Information
+        - Committee Votes
+        - Proposal List
+        - Voter's Proposal List
+        - Proposal Voting Summary
+        - Proposal Votes
+        - Vote List
+        - Pool Voting Power History
+        - Pool Votes
+
     - [x] Ogmios
         - Query
 
